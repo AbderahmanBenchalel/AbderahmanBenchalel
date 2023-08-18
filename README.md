@@ -13,7 +13,7 @@
 
 - 🏢 I'm a Frontend Developer
 - 👨‍💻 As a Tech lover, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
+- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to frontend web development.
 - 👨‍💻 Check out my portfolio at (  ) to see some of the projects I've worked on.
 
 
